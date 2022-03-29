@@ -24,7 +24,7 @@ We have a very interesting community around the world. We have a channel that pr
 
 • User Language Support
 
-We work with users to create languages to support multiple languages. By default, it supports 28 languages, but if you want to modify or add to an existing language, please support your language through the link below. You can directly edit and change the resources used by the app.* App available for Android.This app only works with Android 5.0 or higher.
+We work with users to create languages to support multiple languages. By default, it supports 28 languages, but if you want to modify or add to an existing language, please support your language through the link below. You can directly edit and change the resources used by the app.* App available for Android.This app only works with Android 7.0 or higher.
 
 App available for Android.
 
